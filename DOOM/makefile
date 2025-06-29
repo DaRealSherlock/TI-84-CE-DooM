@@ -12,4 +12,4 @@ DESCRIPTION ?= "DOOM for the TI 84 CE"
 
 # ----------------------------
 
-include $(CEDEV)/include/.makefile
+include $(CEDEV)/meta/.makefile
